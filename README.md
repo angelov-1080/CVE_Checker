@@ -1,6 +1,6 @@
 # CVE Checker for Windows - PowerShell Script
 
-This PowerShell script allows you to check information about given CVE IDs from two websites: [MITRE](https://cve.mitre.org/) and [Tenable](https://www.tenable.com/). The script retrieves details such as descriptions, assigning CNA, name, and product, and outputs the information into a neatly formatted HTML file.
+This PowerShell script allows you to check information about given CVE IDs from two websites: [MITRE](https://cve.mitre.org/) and [TENABLE](https://www.tenable.com/). The script retrieves details such as descriptions, assigning CNA, name, and product, and outputs the information into a neatly formatted HTML file.
 
 ## Prerequisites
 
